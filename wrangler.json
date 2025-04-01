@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "billowing-tooth-2878",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "dabea347-71c7-4948-89cc-f9dbe2672a82",
+      "database_name": "late-limit-ef6b-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
